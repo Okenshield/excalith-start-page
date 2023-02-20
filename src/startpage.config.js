@@ -1,5 +1,5 @@
 const config = {
-	username: "Excalith",
+	username: "nak",
 	terminal: {
 		fixedheight: true,
 		backgroundcolor: "#121317",
