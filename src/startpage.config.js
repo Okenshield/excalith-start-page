@@ -85,9 +85,9 @@ const config = {
 			color: "green",
 			links: [
 				{
-					name: "Portfolio",
-					url: "https://cancellek.com",
-					icon: "mdi:web",
+					name: "Gmail",
+					url: "https://mail.google.com/mail/u/0/#inbox",
+					icon: "mdi:mail",
 					target: "_blank"
 				},
 				{
@@ -201,30 +201,30 @@ const config = {
 			]
 		},
 		{
-			title: "Science",
+			title: "Anime-Tv",
 			color: "blue",
 			links: [
 				{
-					name: "PopSci",
-					url: "https://popsci.com/",
+					name: "Nyaa",
+					url: "https://nyaa.si/",
 					icon: "material-symbols:science",
 					target: "_blank"
 				},
 				{
-					name: "Space",
-					url: "fa6-solid:user-astronaut",
+					name: "Zoro",
+					url: "https://zoro.to/home",
 					icon: "mdi:reddit",
 					target: "_blank"
 				},
 				{
-					name: "NASA",
-					url: "https://blogs.nasa.gov/",
+					name: "rar",
+					url: "https://rarbggo.org/torrents.php",
 					icon: "simple-icons:nasa",
 					target: "_blank"
 				},
 				{
-					name: "ESA",
-					url: "https://blogs.esa.int/",
+					name: "fm",
+					url: "https://fmovies.to/home",
 					icon: "mdi:black-mesa",
 					target: "_blank"
 				}
